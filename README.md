@@ -21,7 +21,7 @@
 [竞赛 天池]( https://tianchi.aliyun.com/competition/gameList/activeList)  
 [竞赛 腾讯广告算法大赛]( https://algo.qq.com)  
 
-## 天池方案
+## 天池类似项目方案
 [冠军 ppt](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.15.573050b5r7Gsyv&postId=55137)    
 [亚军1 ppt](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.27.573050b5r7Gsyv&postId=54557)  
 [亚军2 ppt](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.30.573050b5r7Gsyv&postId=54550)  
@@ -31,7 +31,9 @@
 [季军3 ppt 中期参考](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.24.573050b5r7Gsyv&postId=54599)  
 [rank8 code](https://github.com/JanzYe/TianchiMetroFlow)  
 [rank27 code](https://github.com/Hust-ZYD/SubwayFlowPredict?spm=5176.12282029.0.0.2bdd79b66UkH7X)  
-## 类似项目方案
+
+## 其他类似项目方案
+
 [Traffic Flow Prediction with Neural Networks(SAEs、LSTM、GRU) code](https://github.com/xiaochus/TrafficFlowPrediction)  
 [cnn_lstm code](https://github.com/bobbychovip/TrafficFlowPrediction)  
 [交流流量预测应用方案收集 7篇论文 部分有code](https://github.com/xiaoxiong74/TrafficFlowForecasting)  
