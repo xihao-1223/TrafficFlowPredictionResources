@@ -1,4 +1,5 @@
-交通流量预测项目在研，以下是本人学习过程中积累整理的资源，会持续更新
+交通流量预测项目在研，以下是本人学习过程中积累整理的资源，会持续更新。
+
 ## PyTorch 资源
 
 [资源汇总 awesomexx系列](https://github.com/INTERMT/Awesome-PyTorch-Chinese)  
