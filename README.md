@@ -8,6 +8,7 @@
 ## 机器学习项目资源（竞赛、论文）
 
 [论文 PaperWithCode](https://www.paperswithcode.com/methods)  
+[论文 深度学习最新研究的论文预印版发表网站 ArXiV](https://arxiv.org/search/cs)
 [竞赛 Kaggle](https://www.kaggle.com/)  
 [竞赛 DrivenData]( https://www.drivendata.org/)  
 [竞赛 CrowdANALYTIX]( https://www.crowdanalytix.com/community)  
