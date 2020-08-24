@@ -43,6 +43,8 @@
 [多属性时间序列预测](https://blog.csdn.net/weixin_41555408/article/details/107150046?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159806454319725211944699%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159806454319725211944699&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v3-7-107150046.pc_ecpm_v3_pc_rank_v3&utm_term=pytorch+%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97&spm=1018.2118.3001.4187)  
 [时间序列预测方法总结](https://blog.csdn.net/Poo_Chai/article/details/90924650?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159806813219724842914414%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159806813219724842914414&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v3-4-90924650.pc_ecpm_v3_pc_rank_v3&utm_term=pytorch+%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97&spm=1018.2118.3001.4187)
 
+[Transportation Forecasting Competition 2019 (TRANSFOR19) at TRB 部分资源方案](https://github.com/mwong009/transp-trb-ft)
+
 ## 特定模块资源整理
 ### 工程框架
 [torch使用的基本套路 CSDN 较为简单](https://blog.csdn.net/qq_33431368/article/details/105826938?biz_id=102&utm_term=pytorch%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-105826938&spm=1018.2118.3001.4187)  
