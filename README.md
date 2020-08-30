@@ -66,6 +66,21 @@
 [LSTM 客流预测](https://www.cnblogs.com/mathor/p/12416567.html#autoid-0-0-2)  
 [LSTM 股价预测 支持三种框架](https://github.com/hichenway/stock_predict_with_LSTM)  
 [GCN Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks 论文](https://www.researchgate.net/publication/333440253_Predicting_Station-Level_Short-Term_Passenger_Flow_in_a_Citywide_Metro_Network_Using_Spatiotemporal_Graph_Convolutional_Neural_Networks)
+
+[TCN时序神经网络](https://www.cnblogs.com/PythonLearner/p/12925732.html)
+
+### 算法
+
+[一些算法的简明理解-知乎专栏](https://zhuanlan.zhihu.com/aitom)
+
+[ Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)]
+
+[机器学习炼丹术-公众号-小白理解](https://www.cnblogs.com/PythonLearner/)
+
+### 调参
+
+[深度学习调参](https://blog.csdn.net/qq_20259459/article/details/70316511)
+
 ## test
 
 [test1](www.baidu.com)
