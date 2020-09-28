@@ -72,7 +72,7 @@
 
 [一些算法的简明理解-知乎专栏](https://zhuanlan.zhihu.com/aitom)
 
-[ Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)]
+[ Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 [机器学习炼丹术-公众号-小白理解](https://www.cnblogs.com/PythonLearner/)
 
